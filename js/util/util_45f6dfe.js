@@ -1,0 +1,1 @@
+define("js/util/util",function(e,t,n){var a={tpl:function(e){return document.getElementById(e).innerHTML},ajax:function(e,t){var n=new XMLHttpRequest;n.onreadystatechange=function(){4===n.readyState&&200===n.status&&t(JSON.parse(n.responseText))},n.open("GET",e,!0),n.send(null)}};n.exports=a});

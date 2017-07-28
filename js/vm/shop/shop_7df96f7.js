@@ -1,0 +1,1 @@
+define("js/vm/shop/shop",function(e,n,t){var o=Vue.extend({template:"",data:function(){return{}}});Vue.component("shop",o),t.exports=o});

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, width=device-width">
+	<title></title>
+
+    <link rel="stylesheet" type="text/css" href="/static/pack_04d8018.css" />
+</head>
+<body>
+	<div id="app" style="display:none;" v-show = "isShowAll">
+		<header class="header">
+			<div class="title">
+				<div class="go-back" v-on:click="goBack"><span class="arrow"><span class="arrow green"></span></span></div>
+				<div class="banner_nav" v-on:click = "clickBanner" v-show = "showNav"></div>
+				<h1 v-show = "showTitle">读书观世界</h1>
+			</div>
+			<div class="search" v-show="showSearch">
+				<a href="#list">
+					<input type="text" placeholder="请输入搜索关键字" v-on:keyup.enter="gotoSearch">
+				</a>
+			</div>
+		</header>
+		<footer class="footers_bottom" >
+			<div class="footer" >
+				<p> 
+					<a href="">网站地图</a>
+					<a href="">Global sites <span>&gt;</span></a>
+					<a href="">电脑版</a> 
+				</p>
+				<p>&copy;2017一起读书</p>
+			</div>
+
+			<ul class = "aboutOur" v-show = "showMsg">
+				<li><a v-bind:href="'#login'">登录</a></li>
+			</ul>
+
+		</footer>
+		<component v-bind:is = "view" v-bind:searchvalue = "search"></component>
+	</div>
+	<script type="text/template" id = "tpl_login">
+		
+		
+	</script>
+	<script type="text/template" id = "tpl_shop">
+	</script>
+
+<script type="text/javascript" src="/staitc/lib_a764b7b.js"></script>
+<script type="text/javascript" src="/static/modules_2839ef9.js"></script>
+<script type="text/javascript">
+
+
+	require('js/bootstrap')
+</script>
+</body>
+<!-- 引入脚本文件 -->
+<!-- 将模块打包的文件。引入这里 -->
+<!-- <script src = "lib/index.js"></script> -->
+
+</html>

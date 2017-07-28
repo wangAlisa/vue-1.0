@@ -1,0 +1,185 @@
+{
+	"errno": 0,
+	"data": [
+		{
+			"img": "05.jpg",
+			"title": "小学语文阅读训练100篇一年级",
+			"sales": 44,
+			"price": 87,
+			"orignPrice": 128,
+			"evaluate": 4.5,
+			"id": "1"
+		},
+		{
+			"img": "06.jpg",
+			"title": "小学语文阅读训练80篇一年级（白金版）",
+			"sales": 101,
+			"price": 13,
+			"orignPrice": 30,
+			"evaluate": 3.8,
+			"id": "2"
+		},
+		{
+			"img": "01.jpg",
+			"title": "世界上最伟大的演讲词",
+			"sales": 241,
+			"price": 89,
+			"orignPrice": 105,
+			"evaluate": 4.2,
+			"id": "3"
+		},
+		{
+			"img": "02.jpg",
+			"title": "唐诗 宋词三百首 美丽国学",
+			"sales": 13126,
+			"price": 45.5,
+			"orignPrice": 60,
+			"evaluate": 3.9,
+			"id": "4"
+		},
+		{
+			"img": "03.jpg",
+			"title": "哈佛家训经典智慧",
+			"sales": 9890,
+			"price": 49.9,
+			"orignPrice": 70,
+			"evaluate": 4.9,
+			"id": "5"
+		},
+		{
+			"img": "04.jpg",
+			"title": "哈佛家训经典智慧",
+			"sales": 8,
+			"price": 88,
+			"orignPrice": 260,
+			"evaluate": 4.6,
+			"id": "6"
+		},
+		{
+			"img": "07.jpg",
+			"title": "国医绝学健康馆-一学就会艾灸疗法治百病",
+			"sales": 3,
+			"price": 275,
+			"orignPrice": 300,
+			"evaluate": 3.6,
+			"id": "7"
+		},
+		{
+			"img": "08.jpg",
+			"title": "装在套子里的人：契诃夫短篇小说精选  ",
+			"sales": 12226,
+			"price": 178,
+			"orignPrice": 305,
+			"evaluate": 3.9,
+			"id": "8"
+		},
+		{
+			"img": "09.jpg",
+			"title": "经典读库2:哈佛牛津都在玩的1000个思维游戏",
+			"sales": 11,
+			"price": 198,
+			"orignPrice": 338,
+			"evaluate": 4.1,
+			"id": "9"
+		},
+		{
+			"img": "10.jpg",
+			"title": "中华经典典故",
+			"sales": 90,
+			"price": 68,
+			"orignPrice": 148,
+			"evaluate": 4.3,
+			"id": "10"
+		}
+	],
+	"navList" : [
+			{	
+				"title" : "服饰美妆" ,
+				"data" :[
+
+						{"title" : "服饰美妆"  },
+						{"title" : "电脑数码"  },
+						{"title" : "图书汽车"  },
+						{"title" : "母婴家居"  },
+						{"title" : "服饰美妆"  },
+						{"title" : "图书汽车"  },
+						{"title" : "母婴家居"  },
+						{"title" :  "3C运动"   },
+						{"title" :  "图书汽车" }
+					]
+			},
+			{	
+				"title" : "电脑数码" ,
+				"data" :[
+
+						{"title" : "服饰美妆"  },
+						{"title" : "电脑数码"  },
+						{"title" : "图书汽车"  },
+						{"title" : "母婴家居"  },
+						{"title" : "服饰美妆"  },
+						{"title" : "图书汽车"  },
+						{"title" : "母婴家居"  },
+						{"title" :  "3C运动"   },
+						{"title" :  "图书汽车" }
+					]
+
+			},
+			{	
+				"title" : "图书汽车" ,
+				"data" :[
+
+						{"title" : "服饰美妆"  },
+						{"title" : "电脑数码"  },
+						{"title" : "图书汽车"  },
+						{"title" : "母婴家居"  },
+						{"title" : "服饰美妆"  },
+						{"title" : "图书汽车"  },
+						{"title" : "母婴家居"  },
+						{"title" :  "3C运动"   },
+						{"title" :  "图书汽车" }
+					]
+
+			},
+			{	
+				"title" : "母婴家居" ,
+				"data" :[
+
+						{"title" : "服饰美妆"  },
+						{"title" : "电脑数码"  },
+						{"title" : "图书汽车"  },
+						{"title" : "母婴家居"  },
+						{"title" : "服饰美妆"  },
+						{"title" : "图书汽车"  },
+						{"title" : "母婴家居"  },
+						{"title" :  "3C运动"   },
+						{"title" :  "图书汽车" }
+					]
+
+			},
+			{	
+				"title" : "服饰美妆" ,
+				"data" :[
+
+						{"title" : "服饰美妆"  },
+						{"title" : "电脑数码"  },
+						{"title" : "图书汽车"  },
+						{"title" : "母婴家居"  },
+						{"title" : "服饰美妆"  },
+						{"title" : "图书汽车"  },
+						{"title" : "母婴家居"  },
+						{"title" :  "3C运动"   },
+						{"title" :  "图书汽车" }
+					]
+
+			},
+			{	
+				"title" : "图书汽车" 
+
+			},
+			{	
+				"title" : "母婴家居" 
+
+			}
+		]
+		
+}

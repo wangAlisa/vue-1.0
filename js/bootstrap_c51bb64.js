@@ -1,0 +1,1 @@
+define("js/bootstrap",function(o){var r=o("js/route/router");r()});
